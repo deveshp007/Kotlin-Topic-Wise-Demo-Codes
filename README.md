@@ -163,5 +163,4 @@
 - [Kotlin program for Sorting given input string in Lexicographical order](https://github.com/deveshp007/Kotlin-Topic-Wise-Demo-Codes/blob/master/src/Task6.kt)
 - [Kotlin program using Inheritance on Car, Engine Should be same....](https://github.com/deveshp007/Kotlin-Topic-Wise-Demo-Codes/blob/master/src/Task7.kt)
 - [Kotlin program to identify difference between 2 time periods...](https://github.com/deveshp007/Kotlin-Topic-Wise-Demo-Codes/blob/master/src/Task8.kt)
-- [Kotlin program to identify difference between value and values method](https://github.com/deveshp007/Kotlin-Topic-Wise-Demo-Codes/blob/master/src/Task9.kt)
 - [Kotlin program to Create pyramid or a hollow pyramid patterns and print CSE](https://github.com/deveshp007/Kotlin-Topic-Wise-Demo-Codes/blob/master/src/Task10.kt)
