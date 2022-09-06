@@ -1,4 +1,4 @@
-<h1 align="center"> Kotlin Topic Wise Codes <img src="https://media.giphy.com/media/eUQe4sylGGrbRU5wvj/giphy.gif" > </h1>
+<h1 align="center"> Kotlin Topic Wise Codes <img src="url(#kotlin-logo-large_svg__a)" > </h1>
 <p align="center"> Topic wise demo codes for understanding basics of kotlin </p>
 
 ## Topics :
