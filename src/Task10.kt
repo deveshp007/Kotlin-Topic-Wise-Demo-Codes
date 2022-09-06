@@ -1,4 +1,4 @@
-// Create pyramid and hollow pyramid patterns and print CSE224 or Name ------
+// Create pyramid or hollow pyramid patterns and print CSE ------
 
 fun main(args: Array<String>) {
 
