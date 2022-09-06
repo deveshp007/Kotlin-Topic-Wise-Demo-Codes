@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="32px" height="32px">  Kotlin Topic Wise Codes  </h1>
+<h1 align="center"> <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="32px" height="32px">  Kotlin Topic Wise Codes <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="32px" height="32px">  </h1>
 <p align="center"> Topic wise demo codes for understanding basics of kotlin </p>
 
 ## Topics :
